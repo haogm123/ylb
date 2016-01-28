@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'uid', 2 => 'total', 3 => 'available', 4 => 'freeze', '_autoinc' => true, '_pk' => 'id', '_type' => array ( 'id' => 'int(11)', 'uid' => 'int(11)', 'total' => 'int(11) unsigned', 'available' => 'int(11) unsigned', 'freeze' => 'int(11) unsigned', ), );?>

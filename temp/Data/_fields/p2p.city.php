@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'mid', 1 => 'city', 2 => 'var', '_autoinc' => false, '_pk' => 'var', '_type' => array ( 'mid' => 'smallint(4)', 'city' => 'varchar(11)', 'var' => 'smallint(4)', ), );?>
